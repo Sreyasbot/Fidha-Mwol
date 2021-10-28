@@ -1,14 +1,14 @@
 {
-  "name": "FidhaMwol",
+  "name": "sreyaswabot",
   "version": "7.3.6",
-  "description": "Fidha Mwol is the Modified Version of JulieMwol, Made By @Hypersir with Baileys.",
+  "description": "sreyaswabot.",
   "main": "./Julie-Mwol/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hypersir/Fidha-Mwol.git"
+    "url": "git+https://github.com/Sreyasbot/sreyasbot.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "Hypersir",
-  "developer": "@Hypersir / @farhan-dqz",
+  "author": "Sreyasbot",
+  "developer": "@Sreyasbot / @farhan-dqz",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Hypersir/Fidha-Mwol/issues"
+    "url": "https://github.com/Sreyasbot/sreyasbot/issues"
   },
-  "homepage": "https://github.com/Hypersir/Fidha-Mwol#readme",
+  "homepage": "https://github.com/Sreyasbot/sreyasbot#readme",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
     "@lh2020/speedtest-net": "^2.1.1",
