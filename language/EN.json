@@ -52,7 +52,7 @@
             "L_WARN": "Please open your location before using command!"
         },
         "gitlink": {
-            "GL": "To get github links|http://github.com/Hypersir/Fidha-Mwol."
+            "GL": "To get github links|http://github.com/Sreyasbot/sreyasbot."
         },
         "afk": {
             "AFK_DESC": "It makes you AFK - Away From Keyboard.",
@@ -235,7 +235,7 @@
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
             "UPDATED": "*✅  Updated!*",
             "UPDATED_LOCAL": "*✅ Bot Updated!*",
-            "AFTER_UPDATE": "*FidhaMwol Restarting !*",
+            "AFTER_UPDATE": "*Sreyasbot Restarting !*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
@@ -513,3 +513,4 @@
         }
     }
 }
+
