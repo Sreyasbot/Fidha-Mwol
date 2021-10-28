@@ -6,7 +6,7 @@ if (Config.WORKTYPE == 'private') {
 
     Julie.addCommand({pattern: 'owner', fromMe: true, desc: 'shows the detail of bot owner'}, (async (message, match) => {
 
-        if (message.jid === '15369524516-1612300121@g.us') {
+         {
 
             return;
         }
